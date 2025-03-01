@@ -11,7 +11,7 @@ Before running the tests, ensure you have the following installed:
 
 Step 1: Clone the Repository:
 
-git clone https://github.com/ibgitrepo/ibx509certvalidationrepo.git
+git clone https://github.com/your-repo/ibx509certvalidationrepo.git
 
 
 Step 2: Generate a Self-Signed Certificate (Optional):
